@@ -32,8 +32,11 @@ Each solution includes:
 | 197 | [Rising Temperature](Easy/197.%20Rising%20Temperature.md) | 🟢 Easy |
 | 262 | [Trips and Users](Hard/262.%20Trips%20and%20Users.md) | 🔴 Hard |
 | 511 | [Game Play Analysis I](Easy/511.%20Game%20Play%20Analysis%20I.md) | 🟢 Easy |
+| 550 | [Game Play Analysis IV](Medium/550.%20Game%20Play%20Analysis%20IV.md) | 🟡 Medium |
+| 570 | [Managers with at Least 5 Direct Reports](Medium/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md) | 🟡 Medium |
 | 577 | [Employee Bonus](Easy/577.%20Employee%20Bonus.md) | 🟢 Easy |
 | 584 | [Find Customer Referee](Easy/584.%20Find%20Customer%20Referee.md) | 🟢 Easy |
+| 585 | [Investments in 2016](Medium/585.%20Investments%20in%202016.md) | 🟡 Medium |
 | 586 | [Customer Placing the Largest Number of Orders](Easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md) | 🟢 Easy |
 | 595 | [Big Countries](Easy/595.%20Big%20Countries.md) | 🟢 Easy |
 | 596 | [Classes More Than 5 Students](Easy/596.%20Classes%20More%20Than%205%20Students.md) | 🟢 Easy |
