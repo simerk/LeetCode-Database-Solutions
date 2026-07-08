@@ -53,5 +53,10 @@ Each solution includes:
 | 33 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](Easy/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md) | 🟢 Easy |
 | 34 | 1068 | [Product Sales Analysis I](Easy/1068.%20Product%20Sales%20Analysis%20I.md) | 🟢 Easy |
 | 35 | 1070 | [Product Sales Analysis III](Medium/1070.%20Product%20Sales%20Analysis%20III.md) | 🟡 Medium |
+| 36 | 1075 | [Project Employees I](Easy/1075.%20Project%20Employees%20I.md) | 🟢 Easy |
+| 37 | 1084 | [Sales Analysis III](Easy/1084.%20Sales%20Analysis%20III.md) | 🟢 Easy |
+| 38 | 1141 | [User Activity for the Past 30 Days I](Easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) | 🟢 Easy |
+| 39 | 1148 | [Article Views I](Easy/1148.%20Article%20Views%20I.md) | 🟢 Easy |
+| 40 | 1158 | [Market Analysis I](Medium/1158.%20Market%20Analysis%20I.md) | 🟡 Medium |
 
 ⭐ New solutions are added regularly.
