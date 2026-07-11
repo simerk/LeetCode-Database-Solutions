@@ -68,5 +68,10 @@ Each solution includes:
 | 48 | 1280 | [Students and Examinations](Easy/1280.%20Students%20and%20Examinations.md) | 🟢 Easy |
 | 49 | 1321 | [Restaurant Growth](Medium/1321.%20Restaurant%20Growth.md) | 🟡 Medium |
 | 50 | 1327 | [List the Products Ordered in a Period](Easy/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) | 🟢 Easy |
+| 51 | 1341 | [Movie Rating](Medium/1341.%20Movie%20Rating.md) | 🟡 Medium |
+| 52 | 1378 | [Replace Employee ID With The Unique Identifier](Easy/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) | 🟢 Easy |
+| 53 | 1393 | [Capital Gain/Loss](Medium/1393.%20Capital%20Gain%20Loss.md) | 🟡 Medium |
+| 54 | 1407 | [Top Travellers](Easy/1407.%20Top%20Travellers.md) | 🟢 Easy |
+| 55 | 1484 | [Group Sold Products By The Date](Easy/1484.%20Group%20Sold%20Products%20By%20The%20Date.md) | 🟢 Easy |
 
 ⭐ New solutions are added regularly.
