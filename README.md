@@ -73,5 +73,7 @@ Each solution includes:
 | 53 | 1393 | [Capital Gain/Loss](Medium/1393.%20Capital%20Gain%20Loss.md) | 🟡 Medium |
 | 54 | 1407 | [Top Travellers](Easy/1407.%20Top%20Travellers.md) | 🟢 Easy |
 | 55 | 1484 | [Group Sold Products By The Date](Easy/1484.%20Group%20Sold%20Products%20By%20The%20Date.md) | 🟢 Easy |
+| 56 | 1517 | [Find Users With Valid E-Mails](Easy/1517.%20Find%20Users%20With%20Valid%20E-Mails.md) | 🟢 Easy |
+| 57 | 1527 | [Patients With a Condition](Easy/1527.%20Patients%20With%20a%20Condition.md) | 🟢 Easy |
 
 ⭐ New solutions are added regularly.
