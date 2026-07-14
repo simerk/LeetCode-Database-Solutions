@@ -1,4 +1,4 @@
-## 🚀 LeetCode SQL Solutions
+## 🚀 LeetCode Database Solutions
 
 Welcome! 👋
 
@@ -7,7 +7,7 @@ This repository contains my MySQL solutions to Database problems on LeetCode.
 Each solution includes:
 
 - 💡 Idea
-- 💻 SQL Solution
+- 💻 Solution
 - 🛠️ Code Explanation
 - 🔄 Alternative Approaches
 - ⏱️ Complexity Analysis
