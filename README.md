@@ -96,5 +96,18 @@ Each solution includes:
 | 76 | 1978 | [Employees Whose Manager Left the Company](Easy/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.md) | 🟢 Easy |
 | 77 | 2356 | [Number of Unique Subjects Taught by Each Teacher](Easy/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md) | 🟢 Easy |
 | 78 | 3220 | [Odd and Even Transactions](Medium/3220.%20Odd%20and%20Even%20Transactions.md) | 🟡 Medium |
+| 79 | 3374 | [First Letter Capitalization II](Hard/3374.%20First%20Letter%20Capitalization%20II.md) | 🔴 Hard |
+| 80 | 3421 | [Find Students Who Improved](Medium/3421.%20Find%20Students%20Who%20Improved.md) | 🟡 Medium |
+| 81 | 3436 | [Find Valid Emails](Easy/3436.%20Find%20Valid%20Emails.md) | 🟢 Easy |
+| 82 | 3451 | [Find Invalid IP Addresses](Hard/3451.%20Find%20Invalid%20IP%20Addresses.md) | 🔴 Hard |
+| 83 | 3465 | [Find Products with Valid Serial Numbers](Easy/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers.md) | 🟢 Easy |
+| 84 | 3475 | [DNA Pattern Recognition](Medium/3475.%20DNA%20Pattern%20Recognition.md) | 🟡 Medium |
+| 85 | 3482 | [Analyze Organization Hierarchy](Hard/3482.%20Analyze%20Organization%20Hierarchy.md) | 🔴 Hard |
+| 86 | 3497 | [Analyze Subscription Conversion](Medium/3497.%20Analyze%20Subscription%20Conversion.md) | 🟡 Medium |
+| 87 | 3521 | [Find Product Recommendation Pairs](Medium/3521.%20Find%20Product%20Recommendation%20Pairs.md) | 🟡 Medium |
+| 88 | 3554 | [Find Category Recommendation Pairs](Hard/3554.%20Find%20Category%20Recommendation%20Pairs.md) | 🔴 Hard |
+| 89 | 3564 | [Seasonal Sales Analysis](Medium/3564.%20Seasonal%20Sales%20Analysis.md) | 🟡 Medium |
+| 90 | 3570 | [Find Books with No Available Copies](Easy/3570.%20Find%20Books%20with%20No%20Available%20Copies.md) | 🟢 Easy |
+| 91 | 3580 | [Find Consistently Improving Employees](Medium/3580.%20Find%20Consistently%20Improving%20Employees.md) | 🟡 Medium |
 
 ⭐ New solutions are added regularly.
