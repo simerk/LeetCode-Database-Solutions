@@ -6,6 +6,8 @@ This repository contains my MySQL solutions to Database problems on LeetCode.
 
 Each solution includes:
 
+- 📖 Problem
+- 📝 Example
 - 💡 Idea
 - 💻 Solution
 - 🛠️ Code Explanation
