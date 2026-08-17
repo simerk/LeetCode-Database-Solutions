@@ -111,5 +111,8 @@ Each solution includes:
 | 89 | 3564 | [Seasonal Sales Analysis](Medium/3564.%20Seasonal%20Sales%20Analysis.md) | 🟡 Medium |
 | 90 | 3570 | [Find Books with No Available Copies](Easy/3570.%20Find%20Books%20with%20No%20Available%20Copies.md) | 🟢 Easy |
 | 91 | 3580 | [Find Consistently Improving Employees](Medium/3580.%20Find%20Consistently%20Improving%20Employees.md) | 🟡 Medium |
+| 92 | 3586 | [Find COVID Recovery Patients](Medium/3586.%20Find%20COVID%20Recovery%20Patients.md) | 🟡 Medium |
+| 93 | 3601 | [Find Drivers with Improved Fuel Efficiency](Medium/3601.%20Find%20Drivers%20with%20Improved%20Fuel%20Efficiency.md) | 🟡 Medium |
+| 94 | 3611 | [Find Overbooked Employees](Medium/3611.%20Find%20Overbooked%20Employees.md) | 🟡 Medium |
 
 ⭐ New solutions are added regularly.
