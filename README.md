@@ -114,5 +114,11 @@ Each solution includes:
 | 92 | 3586 | [Find COVID Recovery Patients](Medium/3586.%20Find%20COVID%20Recovery%20Patients.md) | 🟡 Medium |
 | 93 | 3601 | [Find Drivers with Improved Fuel Efficiency](Medium/3601.%20Find%20Drivers%20with%20Improved%20Fuel%20Efficiency.md) | 🟡 Medium |
 | 94 | 3611 | [Find Overbooked Employees](Medium/3611.%20Find%20Overbooked%20Employees.md) | 🟡 Medium |
+| 95 | 3617 | [Find Students with Study Spiral Pattern](Hard/3617.%20Find%20Students%20with%20Study%20Spiral%20Pattern.md) | 🔴 Hard |
+| 96 | 3626 | [Find Stores with Inventory Imbalance](Medium/3626.%20Find%20Stores%20with%20Inventory%20Imbalance.md) | 🟡 Medium |
+| 97 | 3642 | [Find Books with Polarized Opinions](Medium/3642.%20Find%20Books%20with%20Polarized%20Opinions.md) | 🟡 Medium |
+| 98 | 3657 | [Find Loyal Customers](Medium/3657.%20Find%20Loyal%20Customers.md) | 🟡 Medium |
+| 99 | 3673 | [Find Zombie Sessions](Hard/3673.%20Find%20Zombie%20Sessions.md) | 🔴 Hard |
+| 100 | 3705 | [Find Golden Hour Customers](Medium/3705.%20Find%20Golden%20Hour%20Customers.md) | 🟡 Medium |
 
 ⭐ New solutions are added regularly.
