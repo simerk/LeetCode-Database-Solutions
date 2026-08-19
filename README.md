@@ -120,5 +120,10 @@ Each solution includes:
 | 98 | 3657 | [Find Loyal Customers](Medium/3657.%20Find%20Loyal%20Customers.md) | 🟡 Medium |
 | 99 | 3673 | [Find Zombie Sessions](Hard/3673.%20Find%20Zombie%20Sessions.md) | 🔴 Hard |
 | 100 | 3705 | [Find Golden Hour Customers](Medium/3705.%20Find%20Golden%20Hour%20Customers.md) | 🟡 Medium |
+| 101 | 3716 | [Find Churn Risk Customers](Medium/3716.%20Find%20Churn%20Risk%20Customers.md) | 🟡 Medium |
+| 102 | 3764 | [Most Common Course Pairs](Hard/3764.%20Most%20Common%20Course%20Pairs.md) | 🔴 Hard |
+| 103 | 3793 | [Find Users with High Token Usage](Easy/3793.%20Find%20Users%20with%20High%20Token%20Usage.md) | 🟢 Easy |
+| 104 | 3808 | [Find Emotionally Consistent Users](Medium/3808.%20Find%20Emotionally%20Consistent%20Users.md) | 🟡 Medium |
+| 105 | 3832 | [Find Users with Persistent Behavior Patterns](Hard/3832.%20Find%20Users%20with%20Persistent%20Behavior%20Patterns.md) | 🔴 Hard |
 
 ⭐ New solutions are added regularly.
