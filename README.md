@@ -34,14 +34,22 @@ Each solution includes:
 | 12 | 197 | [Rising Temperature](Easy/197.%20Rising%20Temperature.md) | 🟢 Easy |
 | 13 | 262 | [Trips and Users](Hard/262.%20Trips%20and%20Users.md) | 🔴 Hard |
 | 14 | 511 | [Game Play Analysis I](Easy/511.%20Game%20Play%20Analysis%20I.md) | 🟢 Easy |
-| 15 | 550 | [Game Play Analysis IV](Medium/550.%20Game%20Play%20Analysis%20IV.md) | 🟡 Medium |
-| 16 | 570 | [Managers with at Least 5 Direct Reports](Medium/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md) | 🟡 Medium |
-| 17 | 577 | [Employee Bonus](Easy/577.%20Employee%20Bonus.md) | 🟢 Easy |
-| 18 | 584 | [Find Customer Referee](Easy/584.%20Find%20Customer%20Referee.md) | 🟢 Easy |
-| 19 | 585 | [Investments in 2016](Medium/585.%20Investments%20in%202016.md) | 🟡 Medium |
-| 20 | 586 | [Customer Placing the Largest Number of Orders](Easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md) | 🟢 Easy |
-| 21 | 595 | [Big Countries](Easy/595.%20Big%20Countries.md) | 🟢 Easy |
-| 22 | 596 | [Classes With at Least 5 Students](Easy/596.%20Classes%20With%20at%20Least%205%20Students.md) | 🟢 Easy |
+| 15 | 512 | [Game Play Analysis II 🔒](Easy/512.%20Game%20Play%20Analysis%20II.md) | 🟢 Easy |
+| 16 | 534 | [Game Play Analysis III 🔒](Medium/534.%20Game%20Play%20Analysis%20III.md) | 🟡 Medium |
+| 17 | 550 | [Game Play Analysis IV](Medium/550.%20Game%20Play%20Analysis%20IV.md) | 🟡 Medium |
+| 18 | 569 | [Median Employee Salary 🔒](Hard/569.%20Median%20Employee%20Salary.md) | 🔴 Hard |
+| 19 | 570 | [Managers with at Least 5 Direct Reports](Medium/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md) | 🟡 Medium |
+| 20 | 571 | [Find Median Given Frequency of Numbers 🔒](Hard/571.%20Find%20Median%20Given%20Frequency%20of%20Numbers.md) | 🔴 Hard |
+| 21 | 574 | [Winning Candidate 🔒](Medium/574.%20Winning%20Candidate.md) | 🟡 Medium |
+| 22 | 577 | [Employee Bonus](Easy/577.%20Employee%20Bonus.md) | 🟢 Easy |
+| 23 | 578 | [Get Highest Answer Rate Question 🔒](Medium/578.%20Get%20Highest%20Answer%20Rate%20Question.md) | 🟡 Medium |
+| 24 | 579 | [Find Cumulative Salary of an Employee 🔒](Hard/579.%20Find%20Cumulative%20Salary%20of%20an%20Employee.md) | 🔴 Hard |
+| 25 | 580 | [Count Student Number in Departments 🔒](Medium/580.%20Count%20Student%20Number%20in%20Departments.md) | 🟡 Medium |
+| 26 | 584 | [Find Customer Referee](Easy/584.%20Find%20Customer%20Referee.md) | 🟢 Easy |
+| 27 | 585 | [Investments in 2016](Medium/585.%20Investments%20in%202016.md) | 🟡 Medium |
+| 28 | 586 | [Customer Placing the Largest Number of Orders](Easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md) | 🟢 Easy |
+| 29 | 595 | [Big Countries](Easy/595.%20Big%20Countries.md) | 🟢 Easy |
+| 30 | 596 | [Classes With at Least 5 Students](Easy/596.%20Classes%20With%20at%20Least%205%20Students.md) | 🟢 Easy |
 | 23 | 601 | [Human Traffic of Stadium](Hard/601.%20Human%20Traffic%20of%20Stadium.md) | 🔴 Hard |
 | 24 | 602 | [Friend Requests II: Who Has the Most Friends](Medium/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.md) | 🟡 Medium |
 | 25 | 607 | [Sales Person](Easy/607.%20Sales%20Person.md) | 🟢 Easy |
