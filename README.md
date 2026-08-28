@@ -50,20 +50,28 @@ Each solution includes:
 | 28 | 586 | [Customer Placing the Largest Number of Orders](Easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md) | 🟢 Easy |
 | 29 | 595 | [Big Countries](Easy/595.%20Big%20Countries.md) | 🟢 Easy |
 | 30 | 596 | [Classes With at Least 5 Students](Easy/596.%20Classes%20With%20at%20Least%205%20Students.md) | 🟢 Easy |
-| 23 | 601 | [Human Traffic of Stadium](Hard/601.%20Human%20Traffic%20of%20Stadium.md) | 🔴 Hard |
-| 24 | 602 | [Friend Requests II: Who Has the Most Friends](Medium/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.md) | 🟡 Medium |
-| 25 | 607 | [Sales Person](Easy/607.%20Sales%20Person.md) | 🟢 Easy |
-| 26 | 608 | [Tree Node](Medium/608.%20Tree%20Node.md) | 🟡 Medium |
-| 27 | 610 | [Triangle Judgement](Easy/610.%20Triangle%20Judgement.md) | 🟢 Easy |
-| 28 | 619 | [Biggest Single Number](Easy/619.%20Biggest%20Single%20Number.md) | 🟢 Easy |
-| 29 | 620 | [Not Boring Movies](Easy/620.%20Not%20Boring%20Movies.md) | 🟢 Easy |
-| 30 | 626 | [Exchange Seats](Medium/626.%20Exchange%20Seats.md) | 🟡 Medium |
-| 31 | 627 | [Swap Sex of Employees](Easy/627.%20Swap%20Sex%20of%20Employees.md) | 🟢 Easy |
-| 32 | 1045 | [Customers Who Bought All Products](Medium/1045.%20Customers%20Who%20Bought%20All%20Products.md) | 🟡 Medium |
-| 33 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](Easy/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md) | 🟢 Easy |
-| 34 | 1068 | [Product Sales Analysis I](Easy/1068.%20Product%20Sales%20Analysis%20I.md) | 🟢 Easy |
-| 35 | 1070 | [Product Sales Analysis III](Medium/1070.%20Product%20Sales%20Analysis%20III.md) | 🟡 Medium |
-| 36 | 1075 | [Project Employees I](Easy/1075.%20Project%20Employees%20I.md) | 🟢 Easy |
+| 31 | 597 | [Friend Requests I Overall Acceptance Rate 🔒](Easy/597.%20Friend%20Requests%20I%20Overall%20Acceptance%20Rate.md) | 🟢 Easy |
+| 32 | 601 | [Human Traffic of Stadium](Hard/601.%20Human%20Traffic%20of%20Stadium.md) | 🔴 Hard |
+| 33 | 602 | [Friend Requests II: Who Has the Most Friends](Medium/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.md) | 🟡 Medium |
+| 34 | 603 | [603. Consecutive Available Seats 🔒](Easy/603.%20Consecutive%20Available%20Seats.md) | 🟢 Easy |
+| 35 | 607 | [Sales Person](Easy/607.%20Sales%20Person.md) | 🟢 Easy |
+| 36 | 608 | [Tree Node](Medium/608.%20Tree%20Node.md) | 🟡 Medium |
+| 37 | 610 | [Triangle Judgement](Easy/610.%20Triangle%20Judgement.md) | 🟢 Easy |
+| 38 | 612 | [Shortest Distance in a Plane 🔒](Medium/612.%20Shortest%20Distance%20in%20a%20Plane.md) | 🟡 Medium |
+| 39 | 613 | [Shortest Distance in a Line 🔒](Easy/613.%20Shortest%20Distance%20in%20a%20Line.md) | 🟢 Easy |
+| 40 | 614 | [Second Degree Follower 🔒](Medium/614.%20Second%20Degree%20Follower.md) | 🟡 Medium |
+| 42 | 615 | [Average Salary: Departments VS Company 🔒](Hard/615.%20Average%20Salary:%20Departments%20VS%20Company.md) | 🔴 Hard |
+| 43 | 618 | [Students Report By Geography 🔒](Hard/618.%20Students%20Report%20By%20Geography.md) | 🔴 Hard |
+| 44 | 619 | [Biggest Single Number](Easy/619.%20Biggest%20Single%20Number.md) | 🟢 Easy |
+| 45 | 620 | [Not Boring Movies](Easy/620.%20Not%20Boring%20Movies.md) | 🟢 Easy |
+| 46 | 626 | [Exchange Seats](Medium/626.%20Exchange%20Seats.md) | 🟡 Medium |
+| 47 | 627 | [Swap Sex of Employees](Easy/627.%20Swap%20Sex%20of%20Employees.md) | 🟢 Easy |
+| 48 | 1045 | [Customers Who Bought All Products](Medium/1045.%20Customers%20Who%20Bought%20All%20Products.md) | 🟡 Medium |
+| 49 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](Easy/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md) | 🟢 Easy |
+| 50 | 1068 | [Product Sales Analysis I](Easy/1068.%20Product%20Sales%20Analysis%20I.md) | 🟢 Easy |
+| 51 | 1069 | [Product Sales Analysis II 🔒](Easy/1069.%20Product%20Sales%20Analysis%20II.md) | 🟢 Easy |
+| 52 | 1070 | [Product Sales Analysis III](Medium/1070.%20Product%20Sales%20Analysis%20III.md) | 🟡 Medium |
+| 53 | 1075 | [Project Employees I](Easy/1075.%20Project%20Employees%20I.md) | 🟢 Easy |
 | 37 | 1084 | [Sales Analysis III](Easy/1084.%20Sales%20Analysis%20III.md) | 🟢 Easy |
 | 38 | 1141 | [User Activity for the Past 30 Days I](Easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) | 🟢 Easy |
 | 39 | 1148 | [Article Views I](Easy/1148.%20Article%20Views%20I.md) | 🟢 Easy |
