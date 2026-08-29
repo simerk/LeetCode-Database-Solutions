@@ -60,7 +60,7 @@ Each solution includes:
 | 38 | 612 | [Shortest Distance in a Plane 🔒](Medium/612.%20Shortest%20Distance%20in%20a%20Plane.md) | 🟡 Medium |
 | 39 | 613 | [Shortest Distance in a Line 🔒](Easy/613.%20Shortest%20Distance%20in%20a%20Line.md) | 🟢 Easy |
 | 40 | 614 | [Second Degree Follower 🔒](Medium/614.%20Second%20Degree%20Follower.md) | 🟡 Medium |
-| 42 | 615 | [Average Salary: Departments VS Company 🔒](Hard/615.%20Average%20Salary:%20Departments%20VS%20Company.md) | 🔴 Hard |
+| 42 | 615 | [Average Salary- Departments VS Company 🔒](Hard/615.%20Average%20Salary-%20Departments%20VS%20Company.md) | 🔴 Hard |
 | 43 | 618 | [Students Report By Geography 🔒](Hard/618.%20Students%20Report%20By%20Geography.md) | 🔴 Hard |
 | 44 | 619 | [Biggest Single Number](Easy/619.%20Biggest%20Single%20Number.md) | 🟢 Easy |
 | 45 | 620 | [Not Boring Movies](Easy/620.%20Not%20Boring%20Movies.md) | 🟢 Easy |
