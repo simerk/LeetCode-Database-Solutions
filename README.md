@@ -53,7 +53,7 @@ Each solution includes:
 | 31 | 597 | [Friend Requests I Overall Acceptance Rate 🔒](Easy/597.%20Friend%20Requests%20I%20Overall%20Acceptance%20Rate.md) | 🟢 Easy |
 | 32 | 601 | [Human Traffic of Stadium](Hard/601.%20Human%20Traffic%20of%20Stadium.md) | 🔴 Hard |
 | 33 | 602 | [Friend Requests II: Who Has the Most Friends](Medium/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.md) | 🟡 Medium |
-| 34 | 603 | [603. Consecutive Available Seats 🔒](Easy/603.%20Consecutive%20Available%20Seats.md) | 🟢 Easy |
+| 34 | 603 | [Consecutive Available Seats 🔒](Easy/603.%20Consecutive%20Available%20Seats.md) | 🟢 Easy |
 | 35 | 607 | [Sales Person](Easy/607.%20Sales%20Person.md) | 🟢 Easy |
 | 36 | 608 | [Tree Node](Medium/608.%20Tree%20Node.md) | 🟡 Medium |
 | 37 | 610 | [Triangle Judgement](Easy/610.%20Triangle%20Judgement.md) | 🟢 Easy |
