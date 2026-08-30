@@ -72,10 +72,10 @@ Each solution includes:
 | 51 | 1069 | [Product Sales Analysis II 🔒](Easy/1069.%20Product%20Sales%20Analysis%20II.md) | 🟢 Easy |
 | 52 | 1070 | [Product Sales Analysis III](Medium/1070.%20Product%20Sales%20Analysis%20III.md) | 🟡 Medium |
 | 53 | 1075 | [Project Employees I](Easy/1075.%20Project%20Employees%20I.md) | 🟢 Easy |
-| 54 | 1076 | [Project Employees II 🔒](Easy/1075.%20Project%20Employees%20II.md) | 🟢 Easy |
-| 55 | 1077 | [Project Employees III 🔒](Medium/1075.%20Project%20Employees%20III.md) | 🟡 Medium |
-| 56 | 1082 | [Sales Analysis I 🔒](Easy/1084.%20Sales%20Analysis%20I.md) | 🟢 Easy |
-| 57 | 1083 | [Sales Analysis II 🔒](Easy/1084.%20Sales%20Analysis%20II.md) | 🟢 Easy |
+| 54 | 1076 | [Project Employees II 🔒](Easy/1076.%20Project%20Employees%20II.md) | 🟢 Easy |
+| 55 | 1077 | [Project Employees III 🔒](Medium/1077.%20Project%20Employees%20III.md) | 🟡 Medium |
+| 56 | 1082 | [Sales Analysis I 🔒](Easy/1082.%20Sales%20Analysis%20I.md) | 🟢 Easy |
+| 57 | 1083 | [Sales Analysis II 🔒](Easy/1083.%20Sales%20Analysis%20II.md) | 🟢 Easy |
 | 58 | 1084 | [Sales Analysis III](Easy/1084.%20Sales%20Analysis%20III.md) | 🟢 Easy |
 | 38 | 1141 | [User Activity for the Past 30 Days I](Easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) | 🟢 Easy |
 | 39 | 1148 | [Article Views I](Easy/1148.%20Article%20Views%20I.md) | 🟢 Easy |
