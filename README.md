@@ -77,7 +77,15 @@ Each solution includes:
 | 56 | 1082 | [Sales Analysis I 🔒](Easy/1082.%20Sales%20Analysis%20I.md) | 🟢 Easy |
 | 57 | 1083 | [Sales Analysis II 🔒](Easy/1083.%20Sales%20Analysis%20II.md) | 🟢 Easy |
 | 58 | 1084 | [Sales Analysis III](Easy/1084.%20Sales%20Analysis%20III.md) | 🟢 Easy |
-| 38 | 1141 | [User Activity for the Past 30 Days I](Easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) | 🟢 Easy |
+| 59 | 1097 | [Game Play Analysis V 🔒](Hard/1097.%20Game%20Play%20Analysis%20V.md) | 🔴 Hard |
+| 60 | 1098 | [Unpopular Books 🔒](Medium/1098.%20Unpopular%20Books.md) | 🟡 Medium |
+| 61 | 1107 | [New Users Daily Count 🔒](Medium/1107.%20New%20Users%20Daily%20Count.md) | 🟡 Medium |
+| 62 | 1112 | [Highest Grade For Each Student 🔒](Medium/1112.%20Highest%20Grade%20For%20Each%20Student.md) | 🟡 Medium |
+| 63 | 1113 | [Reported Posts 🔒](Easy/1113.%20Reported%20Posts.md) | 🟢 Easy |
+| 64 | 1126 | [Active Businesses 🔒](Medium/1126.%20Active%20Businesses.md) | 🟡 Medium |
+| 65 | 1127 | [User Purchase Platform 🔒](Hard/1127.%20User%20Purchase%20Platform.md) | 🔴 Hard |
+| 66 | 1132 | [Reported Posts II 🔒](Medium/1132.%20Reported%20Posts%20II.md) | 🟡 Medium |
+| 67 | 1141 | [User Activity for the Past 30 Days I](Easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) | 🟢 Easy |
 | 39 | 1148 | [Article Views I](Easy/1148.%20Article%20Views%20I.md) | 🟢 Easy |
 | 40 | 1158 | [Market Analysis I](Medium/1158.%20Market%20Analysis%20I.md) | 🟡 Medium |
 | 41 | 1164 | [Product Price at a Given Date](Medium/1164.%20Product%20Price%20at%20a%20Given%20Date.md) | 🟡 Medium |
