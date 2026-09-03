@@ -86,8 +86,10 @@ Each solution includes:
 | 65 | 1127 | [User Purchase Platform 🔒](Hard/1127.%20User%20Purchase%20Platform.md) | 🔴 Hard |
 | 66 | 1132 | [Reported Posts II 🔒](Medium/1132.%20Reported%20Posts%20II.md) | 🟡 Medium |
 | 67 | 1141 | [User Activity for the Past 30 Days I](Easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) | 🟢 Easy |
-| 39 | 1148 | [Article Views I](Easy/1148.%20Article%20Views%20I.md) | 🟢 Easy |
-| 40 | 1158 | [Market Analysis I](Medium/1158.%20Market%20Analysis%20I.md) | 🟡 Medium |
+| 68 | 1142 | [User Activity for the Past 30 Days II 🔒](Easy/1142.%20User%20Activity%20for%20the%20Past%2030%20Days%20II.md) | 🟢 Easy |
+| 69 | 1148 | [Article Views I](Easy/1148.%20Article%20Views%20I.md) | 🟢 Easy |
+| 70 | 1149 | [Article Views II 🔒](Easy/1149.%20Article%20Views%20II.md) | 🟡 Medium |
+| 71 | 1158 | [Market Analysis I](Medium/1158.%20Market%20Analysis%20I.md) | 🟡 Medium |
 | 41 | 1164 | [Product Price at a Given Date](Medium/1164.%20Product%20Price%20at%20a%20Given%20Date.md) | 🟡 Medium |
 | 42 | 1174 | [Immediate Food Delivery II](Medium/1174.%20Immediate%20Food%20Delivery%20II.md) | 🟡 Medium |
 | 43 | 1179 | [Reformat Department Table](Easy/1179.%20Reformat%20Department%20Table.md) | 🟢 Easy |
