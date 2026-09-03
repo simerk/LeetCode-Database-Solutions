@@ -88,7 +88,7 @@ Each solution includes:
 | 67 | 1141 | [User Activity for the Past 30 Days I](Easy/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) | 🟢 Easy |
 | 68 | 1142 | [User Activity for the Past 30 Days II 🔒](Easy/1142.%20User%20Activity%20for%20the%20Past%2030%20Days%20II.md) | 🟢 Easy |
 | 69 | 1148 | [Article Views I](Easy/1148.%20Article%20Views%20I.md) | 🟢 Easy |
-| 70 | 1149 | [Article Views II 🔒](Easy/1149.%20Article%20Views%20II.md) | 🟡 Medium |
+| 70 | 1149 | [Article Views II 🔒](Medium/1149.%20Article%20Views%20II.md) | 🟡 Medium |
 | 71 | 1158 | [Market Analysis I](Medium/1158.%20Market%20Analysis%20I.md) | 🟡 Medium |
 | 41 | 1164 | [Product Price at a Given Date](Medium/1164.%20Product%20Price%20at%20a%20Given%20Date.md) | 🟡 Medium |
 | 42 | 1174 | [Immediate Food Delivery II](Medium/1174.%20Immediate%20Food%20Delivery%20II.md) | 🟡 Medium |
