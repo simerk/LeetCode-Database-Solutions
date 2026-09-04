@@ -100,8 +100,13 @@ Each solution includes:
 | 79 | 1204 | [Last Person to Fit in the Bus](Medium/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.md) | 🟡 Medium |
 | 80 | 1205 | [Monthly Transactions II 🔒](Medium/1205.%20Monthly%20Transactions%20II.md) | 🟡 Medium |
 | 81 | 1211 | [Queries Quality and Percentage](Easy/1211.%20Queries%20Quality%20and%20Percentage.md) | 🟢 Easy |
-| 47 | 1251 | [Average Selling Price](Easy/1251.%20Average%20Selling%20Price.md) | 🟢 Easy |
-| 48 | 1280 | [Students and Examinations](Easy/1280.%20Students%20and%20Examinations.md) | 🟢 Easy |
+| 82 | 1212 | [Team Scores in Football Tournament 🔒](Medium/1212.%20Team%20Scores%20in%20Football%20Tournament.md) | 🟡 Medium |
+| 83 | 1225 | [Report Contiguous Dates 🔒](Hard/1225.%20Report%20Contiguous%20Dates.md) | 🔴 Hard |
+| 84 | 1241 | [Number of Comments per Post 🔒](Easy/1241.%20Number%20of%20Comments%20per%20Post.md) | 🟢 Easy |
+| 85 | 1251 | [Average Selling Price](Easy/1251.%20Average%20Selling%20Price.md) | 🟢 Easy |
+| 86 | 1264 | [Page Recommendations 🔒](Medium/1264.%20Page%20Recommendations.md) | 🟡 Medium |
+| 87 | 1270 | [All People Report to the Given Manager 🔒](Medium/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.md) | 🟡 Medium |
+| 88 | 1280 | [Students and Examinations](Easy/1280.%20Students%20and%20Examinations.md) | 🟢 Easy |
 | 49 | 1321 | [Restaurant Growth](Medium/1321.%20Restaurant%20Growth.md) | 🟡 Medium |
 | 50 | 1327 | [List the Products Ordered in a Period](Easy/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) | 🟢 Easy |
 | 51 | 1341 | [Movie Rating](Medium/1341.%20Movie%20Rating.md) | 🟡 Medium |
