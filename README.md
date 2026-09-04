@@ -90,12 +90,16 @@ Each solution includes:
 | 69 | 1148 | [Article Views I](Easy/1148.%20Article%20Views%20I.md) | 🟢 Easy |
 | 70 | 1149 | [Article Views II 🔒](Medium/1149.%20Article%20Views%20II.md) | 🟡 Medium |
 | 71 | 1158 | [Market Analysis I](Medium/1158.%20Market%20Analysis%20I.md) | 🟡 Medium |
-| 41 | 1164 | [Product Price at a Given Date](Medium/1164.%20Product%20Price%20at%20a%20Given%20Date.md) | 🟡 Medium |
-| 42 | 1174 | [Immediate Food Delivery II](Medium/1174.%20Immediate%20Food%20Delivery%20II.md) | 🟡 Medium |
-| 43 | 1179 | [Reformat Department Table](Easy/1179.%20Reformat%20Department%20Table.md) | 🟢 Easy |
-| 44 | 1193 | [Monthly Transactions I](Medium/1193.%20Monthly%20Transactions%20I.md) | 🟡 Medium |
-| 45 | 1204 | [Last Person to Fit in the Bus](Medium/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.md) | 🟡 Medium |
-| 46 | 1211 | [Queries Quality and Percentage](Easy/1211.%20Queries%20Quality%20and%20Percentage.md) | 🟢 Easy |
+| 72 | 1159 | [Market Analysis II 🔒](Hard/1159.%20Market%20Analysis%20II.md) | 🔴 Hard |
+| 73 | 1164 | [Product Price at a Given Date](Medium/1164.%20Product%20Price%20at%20a%20Given%20Date.md) | 🟡 Medium |
+| 74 | 1173 | [Immediate Food Delivery I 🔒](Easy/1173.%20Immediate%20Food%20Delivery%20I.md) | 🟢 Easy |
+| 75 | 1174 | [Immediate Food Delivery II](Medium/1174.%20Immediate%20Food%20Delivery%20II.md) | 🟡 Medium |
+| 76 | 1179 | [Reformat Department Table](Easy/1179.%20Reformat%20Department%20Table.md) | 🟢 Easy |
+| 77 | 1193 | [Monthly Transactions I](Medium/1193.%20Monthly%20Transactions%20I.md) | 🟡 Medium |
+| 78 | 1194 | [Tournament Winners 🔒](Hard/1194.%20Tournament%20Winners.md) | 🔴 Hard |
+| 79 | 1204 | [Last Person to Fit in the Bus](Medium/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.md) | 🟡 Medium |
+| 80 | 1205 | [Monthly Transactions II 🔒](Medium/1205.%20Monthly%20Transactions%20II.md) | 🟡 Medium |
+| 81 | 1211 | [Queries Quality and Percentage](Easy/1211.%20Queries%20Quality%20and%20Percentage.md) | 🟢 Easy |
 | 47 | 1251 | [Average Selling Price](Easy/1251.%20Average%20Selling%20Price.md) | 🟢 Easy |
 | 48 | 1280 | [Students and Examinations](Easy/1280.%20Students%20and%20Examinations.md) | 🟢 Easy |
 | 49 | 1321 | [Restaurant Growth](Medium/1321.%20Restaurant%20Growth.md) | 🟡 Medium |
