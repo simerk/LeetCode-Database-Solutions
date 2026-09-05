@@ -107,7 +107,11 @@ Each solution includes:
 | 86 | 1264 | [Page Recommendations 🔒](Medium/1264.%20Page%20Recommendations.md) | 🟡 Medium |
 | 87 | 1270 | [All People Report to the Given Manager 🔒](Medium/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.md) | 🟡 Medium |
 | 88 | 1280 | [Students and Examinations](Easy/1280.%20Students%20and%20Examinations.md) | 🟢 Easy |
-| 49 | 1321 | [Restaurant Growth](Medium/1321.%20Restaurant%20Growth.md) | 🟡 Medium |
+| 89 | 1285 | [Find the Start and End Number of Continuous Ranges 🔒](Medium/1285.%20Find%20the%20Start%20and%20End%20Number%20of%20Continuous%20Ranges.md) | 🟡 Medium |
+| 90 | 1294 | [Weather Type in Each Country 🔒](Easy/1294.%20Weather%20Type%20in%20Each%20Country.md) | 🟢 Easy |
+| 91 | 1303 | [Find the Team Size 🔒](Easy/1303.%20Find%20the%20Team%20Size.md) | 🟢 Easy |
+| 92 | 1308 | [Running Total for Different Genders 🔒](Medium/1308.%20Running%20Total%20for%20Different%20Genders.md) | 🟡 Medium |
+| 93 | 1321 | [Restaurant Growth](Medium/1321.%20Restaurant%20Growth.md) | 🟡 Medium |
 | 50 | 1327 | [List the Products Ordered in a Period](Easy/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) | 🟢 Easy |
 | 51 | 1341 | [Movie Rating](Medium/1341.%20Movie%20Rating.md) | 🟡 Medium |
 | 52 | 1378 | [Replace Employee ID With The Unique Identifier](Easy/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) | 🟢 Easy |
