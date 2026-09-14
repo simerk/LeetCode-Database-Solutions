@@ -112,8 +112,10 @@ Each solution includes:
 | 91 | 1303 | [Find the Team Size 🔒](Easy/1303.%20Find%20the%20Team%20Size.md) | 🟢 Easy |
 | 92 | 1308 | [Running Total for Different Genders 🔒](Medium/1308.%20Running%20Total%20for%20Different%20Genders.md) | 🟡 Medium |
 | 93 | 1321 | [Restaurant Growth](Medium/1321.%20Restaurant%20Growth.md) | 🟡 Medium |
-| 50 | 1327 | [List the Products Ordered in a Period](Easy/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) | 🟢 Easy |
-| 51 | 1341 | [Movie Rating](Medium/1341.%20Movie%20Rating.md) | 🟡 Medium |
+| 94 | 1322 | [Ads Performance 🔒](Easy/1322.%20Ads%20Performance.md) | 🟢 Easy |
+| 95 | 1327 | [List the Products Ordered in a Period](Easy/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) | 🟢 Easy |
+| 96 | 1336 | [Number of Transactions per Visit 🔒](Hard/1336.%20Number%20of%20Transactions%20per%20Visit.md) | 🔴 Hard |
+| 97 | 1341 | [Movie Rating](Medium/1341.%20Movie%20Rating.md) | 🟡 Medium |
 | 52 | 1378 | [Replace Employee ID With The Unique Identifier](Easy/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) | 🟢 Easy |
 | 53 | 1393 | [Capital Gain/Loss](Medium/1393.%20Capital%20Gain%20Loss.md) | 🟡 Medium |
 | 54 | 1407 | [Top Travellers](Easy/1407.%20Top%20Travellers.md) | 🟢 Easy |
