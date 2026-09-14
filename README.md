@@ -116,7 +116,11 @@ Each solution includes:
 | 95 | 1327 | [List the Products Ordered in a Period](Easy/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) | 🟢 Easy |
 | 96 | 1336 | [Number of Transactions per Visit 🔒](Hard/1336.%20Number%20of%20Transactions%20per%20Visit.md) | 🔴 Hard |
 | 97 | 1341 | [Movie Rating](Medium/1341.%20Movie%20Rating.md) | 🟡 Medium |
-| 52 | 1378 | [Replace Employee ID With The Unique Identifier](Easy/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) | 🟢 Easy |
+| 98 | 1350 | [Students With Invalid Departments 🔒](Easy/1350.%20Students%20With%20Invalid%20Departments.md) | 🟢 Easy |
+| 99 | 1355 | [Activity Participants 🔒](Medium/1355.%20Activity%20Participants.md) | 🟡 Medium |
+| 100 | 1364 | [Number of Trusted Contacts of a Customer 🔒](Medium/1364.%20Number%20of%20Trusted%20Contacts%20of%20a%20Customer.md) | 🟡 Medium |
+| 101 | 1369 | [Get the Second Most Recent Activity 🔒](Hard/1369.%20Get%20the%20Second%20Most%20Recent%20Activity.md) | 🔴 Hard |
+| 102 | 1378 | [Replace Employee ID With The Unique Identifier](Easy/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) | 🟢 Easy |
 | 53 | 1393 | [Capital Gain/Loss](Medium/1393.%20Capital%20Gain%20Loss.md) | 🟡 Medium |
 | 54 | 1407 | [Top Travellers](Easy/1407.%20Top%20Travellers.md) | 🟢 Easy |
 | 55 | 1484 | [Group Sold Products By The Date](Easy/1484.%20Group%20Sold%20Products%20By%20The%20Date.md) | 🟢 Easy |
