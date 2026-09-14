@@ -121,8 +121,10 @@ Each solution includes:
 | 100 | 1364 | [Number of Trusted Contacts of a Customer 🔒](Medium/1364.%20Number%20of%20Trusted%20Contacts%20of%20a%20Customer.md) | 🟡 Medium |
 | 101 | 1369 | [Get the Second Most Recent Activity 🔒](Hard/1369.%20Get%20the%20Second%20Most%20Recent%20Activity.md) | 🔴 Hard |
 | 102 | 1378 | [Replace Employee ID With The Unique Identifier](Easy/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) | 🟢 Easy |
-| 53 | 1393 | [Capital Gain/Loss](Medium/1393.%20Capital%20Gain%20Loss.md) | 🟡 Medium |
-| 54 | 1407 | [Top Travellers](Easy/1407.%20Top%20Travellers.md) | 🟢 Easy |
+| 103 | 1384 | [Total Sales Amount by Year 🔒](Hard/1384.%20Total%20Sales%20Amount%20by%20Year.md) | 🔴 Hard |
+| 104 | 1393 | [Capital Gain/Loss](Medium/1393.%20Capital%20Gain%20Loss.md) | 🟡 Medium |
+| 105 | 1398 | [Customers Who Bought Products A and B but Not C 🔒](Medium/1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C.md) | 🟡 Medium |
+| 106 | 1407 | [Top Travellers](Easy/1407.%20Top%20Travellers.md) | 🟢 Easy |
 | 55 | 1484 | [Group Sold Products By The Date](Easy/1484.%20Group%20Sold%20Products%20By%20The%20Date.md) | 🟢 Easy |
 | 56 | 1517 | [Find Users With Valid E-Mails](Easy/1517.%20Find%20Users%20With%20Valid%20E-Mails.md) | 🟢 Easy |
 | 57 | 1527 | [Patients With a Condition](Easy/1527.%20Patients%20With%20a%20Condition.md) | 🟢 Easy |
