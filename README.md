@@ -125,7 +125,16 @@ Each solution includes:
 | 104 | 1393 | [Capital Gain/Loss](Medium/1393.%20Capital%20Gain%20Loss.md) | 🟡 Medium |
 | 105 | 1398 | [Customers Who Bought Products A and B but Not C 🔒](Medium/1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C.md) | 🟡 Medium |
 | 106 | 1407 | [Top Travellers](Easy/1407.%20Top%20Travellers.md) | 🟢 Easy |
-| 55 | 1484 | [Group Sold Products By The Date](Easy/1484.%20Group%20Sold%20Products%20By%20The%20Date.md) | 🟢 Easy |
+| 107 | 1412 | [Find the Quiet Students in All Exams 🔒](Hard/1412.%20Find%20the%20Quiet%20Students%20in%20All%20Exams.md) | 🔴 Hard |
+| 108 | 1421 | [NPV Queries 🔒](Easy/1421.%20NPV%20Queries.md) | 🟢 Easy |
+| 109 | 1435 | [Create a Session Bar Chart 🔒](Easy/1435.%20Create%20a%20Session%20Bar%20Chart.md) | 🟢 Easy |
+| 110 | 1440 | [Evaluate Boolean Expression 🔒](Medium/1440.%20Evaluate%20Boolean%20Expression.md) | 🟡 Medium |
+| 111 | 1445 | [Apples & Oranges 🔒](Medium/1445.%20Apples%20&%20Oranges.md) | 🟡 Medium |
+| 112| 1454 | [Active Users 🔒](Medium/1454.%20Active%20Users.md) | 🟡 Medium |
+| 113 | 1459 | [Rectangles Area 🔒](Medium/1459.%20Rectangles%20Area.md) | 🟡 Medium |
+| 114 | 1468 | [Calculate Salaries 🔒](Medium/1468.%20Calculate%20Salaries.md) | 🟡 Medium |
+| 115 | 1479 | [Sales by Day of the Week 🔒](Hard/1479.%20Sales%20by%20Day%20of%20the%20Week.md) | 🔴 Hard |
+| 116 | 1484 | [Group Sold Products By The Date](Easy/1484.%20Group%20Sold%20Products%20By%20The%20Date.md) | 🟢 Easy |
 | 56 | 1517 | [Find Users With Valid E-Mails](Easy/1517.%20Find%20Users%20With%20Valid%20E-Mails.md) | 🟢 Easy |
 | 57 | 1527 | [Patients With a Condition](Easy/1527.%20Patients%20With%20a%20Condition.md) | 🟢 Easy |
 | 58 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](Easy/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md) | 🟢 Easy |
