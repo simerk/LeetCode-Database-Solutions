@@ -130,13 +130,16 @@ Each solution includes:
 | 109 | 1435 | [Create a Session Bar Chart 🔒](Easy/1435.%20Create%20a%20Session%20Bar%20Chart.md) | 🟢 Easy |
 | 110 | 1440 | [Evaluate Boolean Expression 🔒](Medium/1440.%20Evaluate%20Boolean%20Expression.md) | 🟡 Medium |
 | 111 | 1445 | [Apples & Oranges 🔒](Medium/1445.%20Apples%20&%20Oranges.md) | 🟡 Medium |
-| 112| 1454 | [Active Users 🔒](Medium/1454.%20Active%20Users.md) | 🟡 Medium |
+| 112 | 1454 | [Active Users 🔒](Medium/1454.%20Active%20Users.md) | 🟡 Medium |
 | 113 | 1459 | [Rectangles Area 🔒](Medium/1459.%20Rectangles%20Area.md) | 🟡 Medium |
 | 114 | 1468 | [Calculate Salaries 🔒](Medium/1468.%20Calculate%20Salaries.md) | 🟡 Medium |
 | 115 | 1479 | [Sales by Day of the Week 🔒](Hard/1479.%20Sales%20by%20Day%20of%20the%20Week.md) | 🔴 Hard |
 | 116 | 1484 | [Group Sold Products By The Date](Easy/1484.%20Group%20Sold%20Products%20By%20The%20Date.md) | 🟢 Easy |
-| 56 | 1517 | [Find Users With Valid E-Mails](Easy/1517.%20Find%20Users%20With%20Valid%20E-Mails.md) | 🟢 Easy |
-| 57 | 1527 | [Patients With a Condition](Easy/1527.%20Patients%20With%20a%20Condition.md) | 🟢 Easy |
+| 117 | 1495 | [Friendly Movies Streamed Last Month 🔒](Easy/1495.%20Friendly%20Movies%20Streamed%20Last%20Month.md) | 🟢 Easy |
+| 118 | 1501 | [Countries You Can Safely Invest In 🔒](Medium/1501.%20Countries%20You%20Can%20Safely%20Invest%20In.md) | 🟡 Medium |
+| 119 | 1511 | [Customer Order Frequency 🔒](Easy/1511.%20Customer%20Order%20Frequency.md) | 🟢 Easy |
+| 120 | 1517 | [Find Users With Valid E-Mails](Easy/1517.%20Find%20Users%20With%20Valid%20E-Mails.md) | 🟢 Easy |
+| 121 | 1527 | [Patients With a Condition](Easy/1527.%20Patients%20With%20a%20Condition.md) | 🟢 Easy |
 | 58 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](Easy/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md) | 🟢 Easy |
 | 59 | 1587 | [Bank Account Summary II](Easy/1587.%20Bank%20Account%20Summary%20II.md) | 🟢 Easy |
 | 60 | 1633 | [Percentage of Users Attended a Contest](Easy/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.md) | 🟢 Easy |
