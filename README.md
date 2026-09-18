@@ -140,8 +140,14 @@ Each solution includes:
 | 119 | 1511 | [Customer Order Frequency 🔒](Easy/1511.%20Customer%20Order%20Frequency.md) | 🟢 Easy |
 | 120 | 1517 | [Find Users With Valid E-Mails](Easy/1517.%20Find%20Users%20With%20Valid%20E-Mails.md) | 🟢 Easy |
 | 121 | 1527 | [Patients With a Condition](Easy/1527.%20Patients%20With%20a%20Condition.md) | 🟢 Easy |
-| 58 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](Easy/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md) | 🟢 Easy |
-| 59 | 1587 | [Bank Account Summary II](Easy/1587.%20Bank%20Account%20Summary%20II.md) | 🟢 Easy |
+| 122 | 1532 | [The Most Recent Three Orders 🔒](Medium/1532.%20The%20Most%20Recent%20Three%20Orders.md) | 🟡 Medium |
+| 123 | 1543 | [Fix Product Name Format 🔒](Easy/1543.%20Fix%20Product%20Name%20Format.md) | 🟢 Easy |
+| 124 | 1549 | [The Most Recent Orders for Each Product 🔒](Medium/1549.%20The%20Most%20Recent%20Orders%20for%20Each%20Product.md) | 🟡 Medium |
+| 125 | 1555 | [Bank Account Summary 🔒](Medium/1555.%20Bank%20Account%20Summary.md) | 🟡 Medium |
+| 126 | 1565 | [Unique Orders and Customers Per Month 🔒](Easy/1565.%20Unique%20Orders%20and%20Customers%20Per%20Month.md) | 🟢 Easy |
+| 127 | 1571 | [Warehouse Manager 🔒](Easy/1571.%20Warehouse%20Manager.md) | 🟢 Easy |
+| 128 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](Easy/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md) | 🟢 Easy |
+| 129 | 1587 | [Bank Account Summary II](Easy/1587.%20Bank%20Account%20Summary%20II.md) | 🟢 Easy |
 | 60 | 1633 | [Percentage of Users Attended a Contest](Easy/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.md) | 🟢 Easy |
 | 61 | 1661 | [Average Time of Process per Machine](Easy/1661.%20Average%20Time%20of%20Process%20per%20Machine.md) | 🟢 Easy |
 | 62 | 1667 | [Fix Names in a Table1683. Invalid Tweets](Easy/1667.%20Fix%20Names%20in%20a%20Table1683.%20Invalid%20Tweets.md) | 🟢 Easy |
