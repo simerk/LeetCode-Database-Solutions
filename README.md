@@ -161,12 +161,19 @@ Each solution includes:
 | 140 | 1677 | [Product's Worth Over Invoices 🔒](Easy/1677.%20Product's%20Worth%20Over%20Invoices.md) | 🟢 Easy |
 | 141 | 1683 | [Invalid Tweets](Easy/1683.%20Invalid%20Tweets.md) | 🟢 Easy |
 | 142 | 1693 | [Daily Leads and Partners](Easy/1693.%20Daily%20Leads%20and%20Partners.md) | 🟢 Easy |
-| 65 | 1729 | [Find Followers Count](Easy/1729.%20Find%20Followers%20Count.md) | 🟢 Easy |
-| 66 | 1731 | [The Number of Employees Which Report to Each Employee](Easy/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md) | 🟢 Easy |
-| 67 | 1741 | [Find Total Time Spent by Each Employee](Easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md) | 🟢 Easy |
-| 68 | 1757 | [Recyclable and Low Fat Products](Easy/1757.%20Recyclable%20and%20Low%20Fat%20Products.md) | 🟢 Easy |
-| 69 | 1789 | [Primary Department for Each Employee](Easy/1789.%20Primary%20Department%20for%20Each%20Employee.md) | 🟢 Easy |
-| 70 | 1795 | [Rearrange Products Table](Easy/1795.%20Rearrange%20Products%20Table.md) | 🟢 Easy |
+| 143 | 1699 | [Number of Calls Between Two Persons 🔒](Medium/1699.%20Number%20of%20Calls%20Between%20Two%20Persons.md) | 🟡 Medium |
+| 144 | 1709 | [Biggest Window Between Visits 🔒](Medium/1709.%20Biggest%20Window%20Between%20Visits.md) | 🟡 Medium |
+| 145 | 1715 | [Count Apples and Oranges 🔒](Medium/1715.%20Count%20Apples%20and%20Oranges.md) | 🟡 Medium |
+| 146 | 1729 | [Find Followers Count](Easy/1729.%20Find%20Followers%20Count.md) | 🟢 Easy |
+| 147 | 1731 | [The Number of Employees Which Report to Each Employee](Easy/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md) | 🟢 Easy |
+| 148 | 1741 | [Find Total Time Spent by Each Employee](Easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md) | 🟢 Easy |
+| 149 | 1747 | [Leetflex Banned Accounts 🔒](Medium/1747.%20Leetflex%20Banned%20Accounts.md) | 🟡 Medium |
+| 150 | 1757 | [Recyclable and Low Fat Products](Easy/1757.%20Recyclable%20and%20Low%20Fat%20Products.md) | 🟢 Easy |
+| 151 | 1767 | [Find the Subtasks That Did Not Execute 🔒](Hard/1767.%20Find%20the%20Subtasks%20That%20Did%20Not%20Execute.md) | 🔴 Hard |
+| 152 | 1777 | [Product's Price for Each Store 🔒](Easy/1777.%20Product's%20Price%20for%20Each%20Store.md) | 🟢 Easy |
+| 153 | 1783 | [Grand Slam Titles 🔒](Medium/1783.%20Grand%20Slam%20Titles.md) | 🟡 Medium |
+| 154 | 1789 | [Primary Department for Each Employee](Easy/1789.%20Primary%20Department%20for%20Each%20Employee.md) | 🟢 Easy |
+| 155 | 1795 | [Rearrange Products Table](Easy/1795.%20Rearrange%20Products%20Table.md) | 🟢 Easy |
 | 71 | 1873 | [Calculate Special Bonus](Easy/1873.%20Calculate%20Special%20Bonus.md) | 🟢 Easy |
 | 72 | 1890 | [The Latest Login in 2020](Easy/1890.%20The%20Latest%20Login%20in%202020.md) | 🟢 Easy |
 | 73 | 1907 | [Count Salary Categories](Medium/1907.%20Count%20Salary%20Categories.md) | 🟡 Medium |
