@@ -148,11 +148,19 @@ Each solution includes:
 | 127 | 1571 | [Warehouse Manager 🔒](Easy/1571.%20Warehouse%20Manager.md) | 🟢 Easy |
 | 128 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](Easy/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md) | 🟢 Easy |
 | 129 | 1587 | [Bank Account Summary II](Easy/1587.%20Bank%20Account%20Summary%20II.md) | 🟢 Easy |
-| 60 | 1633 | [Percentage of Users Attended a Contest](Easy/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.md) | 🟢 Easy |
-| 61 | 1661 | [Average Time of Process per Machine](Easy/1661.%20Average%20Time%20of%20Process%20per%20Machine.md) | 🟢 Easy |
-| 62 | 1667 | [Fix Names in a Table1683. Invalid Tweets](Easy/1667.%20Fix%20Names%20in%20a%20Table1683.%20Invalid%20Tweets.md) | 🟢 Easy |
-| 63 | 1683 | [Invalid Tweets](Easy/1683.%20Invalid%20Tweets.md) | 🟢 Easy |
-| 64 | 1693 | [Daily Leads and Partners](Easy/1693.%20Daily%20Leads%20and%20Partners.md) | 🟢 Easy |
+| 130 | 1596 | [The Most Frequently Ordered Products for Each Customer 🔒](Medium/1596.%20The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer.md) | 🟡 Medium |
+| 131 | 1607 | [Sellers With No Sales 🔒](Easy/1607.%20Sellers%20With%20No%20Sales.md) | 🟢 Easy |
+| 132 | 1613 | [Find the Missing IDs 🔒](Medium/1613.%20Find%20the%20Missing%20IDs.md) | 🟡 Medium |
+| 133 | 1623 | [All Valid Triplets That Can Represent a Country 🔒](Easy/1623.%20All%20Valid%20Triplets%20That%20Can%20Represent%20a%20Country.md) | 🟢 Easy |
+| 134 | 1633 | [Percentage of Users Attended a Contest](Easy/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.md) | 🟢 Easy |
+| 135 | 1635 | [Hopper Company Queries I 🔒](Hard/1635.%20Hopper%20Company%20Queries%20I.md) | 🔴 Hard |
+| 136 | 1645 | [Hopper Company Queries II 🔒](Hard/1645.%20Hopper%20Company%20Queries%20II.md) | 🔴 Hard |
+| 137 | 1651 | [Hopper Company Queries III 🔒](Hard/1651.%20Hopper%20Company%20Queries%20III.md) | 🔴 Hard |
+| 138 | 1661 | [Average Time of Process per Machine](Easy/1661.%20Average%20Time%20of%20Process%20per%20Machine.md) | 🟢 Easy |
+| 139 | 1667 | [Fix Names in a Table1683. Invalid Tweets](Easy/1667.%20Fix%20Names%20in%20a%20Table1683.%20Invalid%20Tweets.md) | 🟢 Easy |
+| 140 | 1677 | [Product's Worth Over Invoices 🔒](Easy/1677.%20Product's%20Worth%20Over%20Invoices.md) | 🟢 Easy |
+| 141 | 1683 | [Invalid Tweets](Easy/1683.%20Invalid%20Tweets.md) | 🟢 Easy |
+| 142 | 1693 | [Daily Leads and Partners](Easy/1693.%20Daily%20Leads%20and%20Partners.md) | 🟢 Easy |
 | 65 | 1729 | [Find Followers Count](Easy/1729.%20Find%20Followers%20Count.md) | 🟢 Easy |
 | 66 | 1731 | [The Number of Employees Which Report to Each Employee](Easy/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md) | 🟢 Easy |
 | 67 | 1741 | [Find Total Time Spent by Each Employee](Easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md) | 🟢 Easy |
