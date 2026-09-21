@@ -174,12 +174,28 @@ Each solution includes:
 | 153 | 1783 | [Grand Slam Titles 🔒](Medium/1783.%20Grand%20Slam%20Titles.md) | 🟡 Medium |
 | 154 | 1789 | [Primary Department for Each Employee](Easy/1789.%20Primary%20Department%20for%20Each%20Employee.md) | 🟢 Easy |
 | 155 | 1795 | [Rearrange Products Table](Easy/1795.%20Rearrange%20Products%20Table.md) | 🟢 Easy |
-| 71 | 1873 | [Calculate Special Bonus](Easy/1873.%20Calculate%20Special%20Bonus.md) | 🟢 Easy |
-| 72 | 1890 | [The Latest Login in 2020](Easy/1890.%20The%20Latest%20Login%20in%202020.md) | 🟢 Easy |
-| 73 | 1907 | [Count Salary Categories](Medium/1907.%20Count%20Salary%20Categories.md) | 🟡 Medium |
-| 74 | 1934 | [Confirmation Rate](Medium/1934.%20Confirmation%20Rate.md) | 🟡 Medium |
-| 75 | 1965 | [Employees With Missing Information](Easy/1965.%20Employees%20With%20Missing%20Information.md) | 🟢 Easy |
-| 76 | 1978 | [Employees Whose Manager Left the Company](Easy/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.md) | 🟢 Easy |
+| 156 | 1809 | [Ad-Free Sessions 🔒](Easy/1809.%20Ad-Free%20Sessions.md) | 🟢 Easy |
+| 157 | 1811 | [Find Interview Candidates 🔒](Medium/1811.%20Find%20Interview%20Candidates.md) | 🟡 Medium |
+| 158 | 1821 | [Find Customers With Positive Revenue this Year 🔒](Easy/1821.%20Find%20Customers%20With%20Positive%20Revenue%20this%20Year.md) | 🟢 Easy |
+| 159 | 1831 | [Maximum Transaction Each Day 🔒](Medium/1831.%20Maximum%20Transaction%20Each%20Day.md) | 🟡 Medium |
+| 160 | 1841 | [League Statistics 🔒](Medium/1841.%20League%20Statistics.md) | 🟡 Medium |
+| 161 | 1843 | [Suspicious Bank Accounts 🔒](Medium/1843.%20Suspicious%20Bank%20Accounts.md) | 🟡 Medium |
+| 162 | 1853 | [Convert Date Format 🔒](Easy/1853.%20Convert%20Date%20Format.md) | 🟢 Easy |
+| 163 | 1867 | [Orders With Maximum Quantity Above Average 🔒](Medium/1867.%20Orders%20With%20Maximum%20Quantity%20Above%20Average.md) | 🟡 Medium |
+| 164 | 1873 | [Calculate Special Bonus](Easy/1873.%20Calculate%20Special%20Bonus.md) | 🟢 Easy |
+| 165 | 1875 | [Group Employees of the Same Salary 🔒](Medium/1875.%20Group%20Employees%20of%20the%20Same%20Salary.md) | 🟡 Medium |
+| 166 | 1890 | [The Latest Login in 2020](Easy/1890.%20The%20Latest%20Login%20in%202020.md) | 🟢 Easy |
+| 167 | 1892 | [Page Recommendations II 🔒](Hard/1892.%20Page%20Recommendations%20II.md) | 🔴 Hard |
+| 168 | 1907 | [Count Salary Categories](Medium/1907.%20Count%20Salary%20Categories.md) | 🟡 Medium |
+| 169 | 1917 | [Leetcodify Friends Recommendations 🔒](Hard/1917.%20Leetcodify%20Friends%20Recommendations.md) | 🔴 Hard |
+| 170 | 1919 | [Leetcodify Similar Friends 🔒](Hard/1919.%20Leetcodify%20Similar%20Friends.md) | 🔴 Hard |
+| 171 | 1934 | [Confirmation Rate](Medium/1934.%20Confirmation%20Rate.md) | 🟡 Medium |
+| 172 | 1939 | [Users That Actively Request Confirmation Messages 🔒](Easy/1939.%20Users%20That%20Actively%20Request%20Confirmation%20Messages.md) | 🟢 Easy |
+| 173 | 1949 | [Strong Friendship 🔒](Medium/1949.%20Strong%20Friendship.md) | 🟡 Medium |
+| 174 | 1951 | [All the Pairs With the Maximum Number of Common Followers 🔒](Medium/1951.%20All%20the%20Pairs%20With%20the%20Maximum%20Number%20of%20Common%20Followers.md) | 🟡 Medium |
+| 175 | 1965 | [Employees With Missing Information](Easy/1965.%20Employees%20With%20Missing%20Information.md) | 🟢 Easy |
+| 176 | 1972 | [First and Last Call On the Same Day 🔒](Hard/1972.%20First%20and%20Last%20Call%20On%20the%20Same%20Day.md) | 🔴 Hard |
+| 177 | 1978 | [Employees Whose Manager Left the Company](Easy/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.md) | 🟢 Easy |
 | 77 | 2356 | [Number of Unique Subjects Taught by Each Teacher](Easy/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md) | 🟢 Easy |
 | 78 | 3220 | [Odd and Even Transactions](Medium/3220.%20Odd%20and%20Even%20Transactions.md) | 🟡 Medium |
 | 79 | 3374 | [First Letter Capitalization II](Hard/3374.%20First%20Letter%20Capitalization%20II.md) | 🔴 Hard |
